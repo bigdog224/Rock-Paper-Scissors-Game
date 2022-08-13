@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lamfa/CLionProjects/rockPapersScissors_BestOf_3/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+
